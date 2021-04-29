@@ -1,0 +1,46 @@
+body{
+	background:#EDF53F;
+}
+.div_padre{
+  background: #EDF53F;
+}
+.img{
+  display: inline;
+}
+h1 {
+    background:#EC3B3B;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+   
+ p {
+   font-family:arial;
+   font-size: 20px;
+   color: #000000;
+}
+table{
+        border: 1px solid black;
+}
+ tr{
+  border: 1px solid black;
+  background:#dbf6e9;
+ }
+ td{
+  border: 1px solid black;
+  background:#9ddfd3;
+ }
+header {
+  width: 100%;
+  height: 600px;
+  background: #a2b29f;
+  background: -webtik-linear-gradient(to right, #bc4e9c), <img src="imagenes/micas2.jpg">;
+  background: linear-gradient(to right, #bc4e9c), <img src="imagenes/micas2.jpg">;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}
+.wave{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
